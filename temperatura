@@ -1,0 +1,12 @@
+import java.utill.Scanner ;
+
+class main {
+ public static void main(String [] args) { 
+double celsius, Kelvin, fahrenheit, reaumur, rankine;
+   int celsius = 32;
+   int kelvin
+  System.out.println(" converter celsius em fahrenheit");
+  System.out.println("coverter celsius em kelvin");
+  System.out.println("converter celsius em réaumur");
+  System.out.println("converter celsius em rankine");
+  
